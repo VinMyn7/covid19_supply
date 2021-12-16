@@ -1,0 +1,6 @@
+hospital_id,hospital_name,hospital_address,delivery_id
+0A1,Mayo Clinic,"Rochester, Minnesota",DEL212
+0B2,UCLA Medical Center,Los Angeles,DEL442
+0C3,Johns Hopkins Hospital," 1800 Orleans St, Baltimore, MD 21287",DEL001
+0D4,Massachusetts General Hospital,"55 Fruit St, Boston, MA 02114",DEL108
+0A2,NewYork-Presbyterian Hospital,"NY Metropolitan area, New York",DEL345

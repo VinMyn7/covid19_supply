@@ -1,0 +1,6 @@
+customer_id,customer_name,customer_address,customer_age,delivery_id
+00001A,Barney Stinson,"MacLaren's Pub, New York",32,DEL212
+12340B,Ted Mosby,"New GNB Headquarters, New York",31,DEL442
+61234C,Marshall Eriksen,"Wesleyan University, Illinois",36,DEL001
+78423D,Lily Aldrin,"Marshall and Lily's apartment, New York",34,DEL108
+77777E,Robin Scherbatsky,"Hoser Hut, New York",23,DEL345

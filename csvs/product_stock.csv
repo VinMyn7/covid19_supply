@@ -1,0 +1,6 @@
+product_id,product_name,available_quantity,supplier_id
+010A,Hand Sanitizers,1000,SUP111
+010B,N95 Mask ,5000,SUP222
+010C,"Gloves, surgical ",3000,SUP333
+777M,RT-PCR Kits,400,SUP672
+717S,Oxygen Cylinders,70,SUP000
